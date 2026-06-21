@@ -1,16 +1,13 @@
-## Hi there 👋
+## Robot-tim (Real name not tim)
 
-<!--
-**Robot-tim1/Robot-tim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started learning to code at the start of 2026 and haven't stopped since because I might have an addiction
 
-Here are some ideas to get you started:
+Currently taking the [Boot.dev](https://boot.dev) Back-end Developer Path
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So far I've learned
+  - Python
+  - Go
+  - C Memory management
+  - Git
+  - SQL *(currently learning)*
+
