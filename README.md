@@ -9,5 +9,5 @@ So far I've learned
   - Go
   - C Memory management
   - Git
-  - SQL *(currently learning)*
+  - SQL
 
